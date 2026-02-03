@@ -18,7 +18,7 @@ function determineGiscusTheme() {
 
   let giscusAttributes = {
     src: "https://giscus.app/client.js",
-    "data-repo": "sanghoiscoding/SangHoKim.github.io",
+    "data-repo": "SangHo-Daniel-Kim/SangHoKim",
     "data-repo-id": "",
     "data-category": "Comments",
     "data-category-id": "",
